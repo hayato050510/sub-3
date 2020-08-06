@@ -11,6 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// LP獲得用
+Route::get('job', function () {
+    return view('sc.check');
+    // return view('sc.job'); //獲得LP(1)
+});
+
+// 確認用
+Route::get('cccheck', function () {
+    return view('sc.job'); //獲得LP(1)
 });
