@@ -10,9 +10,9 @@
     </head>
     <body>
         <br>
-        <img src="{{ asset('image/baitoru.png') }}"></img>
+        <img src="{{ asset('image/1717.png') }}"></img>
         <div class="button">
-                <a href="https://apps.apple.com/jp/app/%E3%83%90%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A7%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88%E9%81%B8%E3%81%B3/id387320095" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://apps.apple.com/jp/app/17live-%E3%82%A4%E3%83%81%E3%83%8A%E3%83%8A-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1-%E3%82%A2%E3%83%97%E3%83%AA/id988259048" class="btn-square">公式ページで詳細をみる <i class="fas fa-external-link-alt"></i></a>
         </div>
         <p>公式ページへ移動しています。<br>詳細は公式ページをご確認下さい。</p>
     </body>
