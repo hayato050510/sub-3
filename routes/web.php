@@ -13,8 +13,8 @@
 
 // LP獲得用
 Route::get('app', function () {
-    // return view('sc.check');
-    return view('sc.menApp'); //獲得LP(1)
+    return view('sc.check');
+    // return view('sc.menApp'); //獲得LP(1)
 });
 
 // 確認用
